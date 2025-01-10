@@ -15,4 +15,5 @@
 
 3. Restaurant Picker: create 1 endpoint that takes an input and generates a Randomly Generated Restaurant based on the category chosen. 10 Restaurants per category.
 
-//Peer Reviewed by:
+//Peer Reviewed by: Gianpaolo Reinares
+> Comments: Code looks good and functions; I like how you can see the correct number in the Guess It; Love the little extra color feature in the Magic 8 Ball; Restaurant Picker Randomizes every execution; overall great job;
